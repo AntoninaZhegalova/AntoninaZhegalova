@@ -14,7 +14,6 @@
    <img src="https://img.icons8.com/color/96/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; 
   <img src="https://avatars.githubusercontent.com/u/1119453?s=200&v=4" title="BrowserStack"  alt="BrowserStack" width="40" height="40"/>&nbsp;
   <img src="https://plugins.gradle.org/shared-assets/shared/images/elephant-corner.png" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/glyph-neue/344/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"  title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
   <img src="https://images.opencollective.com/allure-report/f14e715/logo/256.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
