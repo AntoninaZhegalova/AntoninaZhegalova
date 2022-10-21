@@ -30,8 +30,8 @@
 
   |QA Automation Engineer          | QA Manual Engineer                            
   | -------------------------------- |--------------------------------------------------|
-  | 2022 - QA.GURU, Java, Автоматизация тестирования. |  2021 - EPAM, EPAM LEARN, Software Testing Introduction.|  
-  | | <a target="_blank" href="https://github.com/AntoninaZhegalova/sertificates/blob/main/images/Otus_Certificate_AZhegalova.png">2021 - OTUS, QA Engineer. Basic.</a>| 
+  | 2022 -  </a> <a target="_blank" href="https://qa.guru/"> QA.GURU, Java, Автоматизация тестирования.|  2021 - </a> <a target="_blank" href="https://training.epam.com/Training/Details/2849?lang=en"> EPAM, EPAM LEARN, Software Testing Introduction.|  
+  | | 2021 - </a> <a target="_blank" href="https://otus.ru/lessons/qa-engineer/"> OTUS, QA Engineer, Basic </a> <a target="_blank" href="https://github.com/AntoninaZhegalova/sertificates/blob/main/images/Otus_Certificate_AZhegalova.png"> (ссылка на сертификат). | 
   
  ### Дипломный проект QA.GURU:
  
